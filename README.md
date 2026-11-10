@@ -75,6 +75,8 @@ Whether you're a student breaking into AI research or a practitioner looking to 
 
 - **[Distill.pub](https://distill.pub/)** — Interactive, beautifully written explainers of ML research concepts. High signal-to-noise ratio.
 
+- **[ProfScout](https://profscout.com)** - Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.
+
 ## Access to GPU/TPU for Experiments
 
 ### Programs (Free Credits)
